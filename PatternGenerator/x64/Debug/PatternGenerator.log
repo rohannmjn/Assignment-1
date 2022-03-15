@@ -1,0 +1,12 @@
+﻿  PatternGeneratorView.cpp
+C:\Users\ACER\Desktop\PatternGenerator\PatternGeneratorView.cpp(103,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PatternGenerator\PatternGeneratorView.cpp(103,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PatternGenerator\PatternGeneratorView.cpp(103,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PatternGenerator\PatternGeneratorView.cpp(103,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PatternGenerator\PatternGeneratorView.cpp(108,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PatternGenerator\PatternGeneratorView.cpp(108,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PatternGenerator\PatternGeneratorView.cpp(108,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PatternGenerator\PatternGeneratorView.cpp(108,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PatternGenerator\PatternGeneratorView.cpp(209,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PatternGenerator\PatternGeneratorView.cpp(210,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PatternGenerator.vcxproj -> C:\Users\ACER\Desktop\PatternGenerator\x64\Debug\PatternGenerator.exe
